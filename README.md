@@ -19,7 +19,7 @@ This project is a Front End Mentor coding challenge where I aimed to reproduce a
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://meraki-arcana-qr-code-component.vercel.app/
 
 ### My process
 
@@ -53,5 +53,5 @@ Lastly, limiting the amount of media queries will make my code more manageable a
 
 ### Author
 
-- Website - [Meraki Arcana](https://www.linkedin.com/in/meraki-arcana/)
-- Frontend Mentor - [@Meraki-Arcana](https://www.frontendmentor.io/profile/Meraki-Arcana)
+- Let's connect - https://www.linkedin.com/in/meraki-arcana
+- Frontend Mentor - https://www.frontendmentor.io/profile/Meraki-Arcana
